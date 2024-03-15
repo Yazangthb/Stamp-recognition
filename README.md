@@ -13,10 +13,9 @@ scans.
 - **Sirojiddin Komolov: Author, Client**
 - Sofia Tkachenko: Team Lead, Backend developer
 - Osama Orabi: ML engineer, datascience
-- Yazan Alnakri: Computer vision
+- Yazan Alnakri: ML engineer, Computer vision
 - Leonid Pustobaev: Dataset Augmentation
-- Laith Nayal: Computer vision
-- Ahmed Abid: ML engineer
+
 
 ## Demo
 ### Classify the stamp on the image
