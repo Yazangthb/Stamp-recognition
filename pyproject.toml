@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "project-test"
+version = "0.1.0"
+description = ""
+authors = ["Sofya Tkachenko <s.tkachenko@innopolis.university>"]
+readme = "README.md"
+packages = []
+
+[tool.poetry.dependencies]
+python = ">3.9, <3.12"
+numpy = "^1.25.1"
+Flask = "^2.3.2"
+tensorflow = "2.10"
+matplotlib = "^3.7.2"
+uvicorn = "^0.23.0"
+gunicorn = "^20.1.0"
+pydantic = "^2.0.3"
+pdf2image = "^1.16.3"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
